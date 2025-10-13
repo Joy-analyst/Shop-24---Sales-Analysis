@@ -58,38 +58,32 @@ The primary goals of the analysis were to:
 
 
 ###  **Sales Distribution by Region**
-![Sales By Region Preview](Shop-24---Sales-Analysis/Sales By Region.png at main · Joy-analyst/Shop-24---Sales-Analysis
-)
+![Sales By Region Preview](https://github.com/Joy-analyst/Shop-24---Sales-Analysis/blob/main/Sales%20By%20Region.png)
 - **West Region** recorded the highest revenue at **$191K**.  
 - **East Region** followed closely with **$166K**, while **South Region** had the lowest sales at **$72K**.  
 - Regional variation highlights areas for targeted marketing and logistics improvement.  
 
 ###  **Sales by Product Category**
-![Sales by Product Category Preview](Shop-24---Sales-Analysis/Sales By Product Category.png at main · Joy-analyst/Shop-24---Sales-Analysis
-
-)
+![Sales by Product Category Preview](https://github.com/Joy-analyst/Shop-24---Sales-Analysis/blob/main/Sales%20By%20Product%20Category.png)
 - **Toys ($164K)** was the top-performing category.  
 - **Clothing ($122K)** and **Furniture ($121K)** followed closely.  
 - **Office Supplies ($75K)** had the lowest sales volume, suggesting underperformance or limited stock availability.  
 
 ###  **Sales by Marital Status**
 
-![Sales by Marital Status Preview](Shop-24---Sales-Analysis/Sales By Marital status.png at main · Joy-analyst/Shop-24---Sales-Analysis
-)
+![Sales by Marital Status Preview](https://github.com/Joy-analyst/Shop-24---Sales-Analysis/blob/main/Sales%20By%20Marital%20status.png)
 - **Married customers** contributed the most with **$164K** in sales, followed by **Widowed ($152K)** and **Divorced ($136K)**.  
 - Targeted campaigns toward married and widowed segments could drive even higher engagement.  
 
 ###  **Sales by Gender**
 
-![Sales by Gender Preview](Shop-24---Sales-Analysis/Sales By Gender.png at main · Joy-analyst/Shop-24---Sales-Analysis
-)
+![Sales by Gender Preview](https://github.com/Joy-analyst/Shop-24---Sales-Analysis/blob/main/Sales%20By%20Gender.png)
 - **Female customers** generated **$205K**, slightly higher than **Male ($197K)**, while **Non-binary** accounted for **$178K**.  
 - Indicates a balanced customer base across gender demographics.  
 
 ###  **Top Performing States**
 
-![Top Performing States Preview](Shop-24---Sales-Analysis/Sales By State.png at main · Joy-analyst/Shop-24---Sales-Analysis
-)
+![Top Performing States Preview](https://github.com/Joy-analyst/Shop-24---Sales-Analysis/blob/main/Sales%20By%20State.png)
 | State | Revenue |
 |--------|----------|
 | California | $131K |
