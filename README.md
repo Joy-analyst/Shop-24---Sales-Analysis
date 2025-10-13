@@ -2,8 +2,9 @@
 Sales performance analysis and dashboard for Shop’24 USA — uncovering key business insights using Microsoft Excel
 # 🏬 Shop’24 Sales Performance Analysis (Excel Dashboard Project)
 
-![Shop24 Dashboard Preview](visuals/SALES_DASHBOARD.png)
+![Shop24 Dashboard Preview](https://github.com/Joy-analyst/Shop-24---Sales-Analysis/blob/main/visuals/SALES%20DASHBOARD.png)
 
+### 🔹 Key Visuals  
 ## 📊 Project Overview
 **Shop’24**, a U.S.-based sales organization, aimed to close its books for the year and gain insights into its business performance.  
 As the **Data Scientist**, I was tasked with extracting, analyzing, and visualizing key data from the company’s database — covering **sales**, **customers**, and **products**.  
