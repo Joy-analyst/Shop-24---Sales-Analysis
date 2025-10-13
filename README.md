@@ -1,10 +1,7 @@
-# 🏬 Shop’24 Sales Performance Analysis (Excel Dashboard Project)
+#  Shop’24 Sales Performance Analysis (Excel Dashboard Project)
 
 ![Shop24 Dashboard Preview](https://github.com/Joy-analyst/Shop-24---Sales-Analysis/blob/main/SALES%20DASHBOARD.png)
 
-# 🏬 Shop’24 Sales Performance Analysis (Excel Dashboard Project)
-
-![Shop24 Dashboard Preview](visuals/SALES_DASHBOARD.png)
 
 ## 📊 Project Overview
 **Shop’24**, a U.S.-based sales organization, aimed to close its books for the year and gain insights into its business performance.  
@@ -46,39 +43,53 @@ The primary goals of the analysis were to:
  
 ---
 
-## 📈 Key Performance Metrics
+##  Key Performance Metrics
 | Metric | Value |
 |--------|--------|
-| **Total Revenue** | 💰 $581K |
-| **Total Profit** | 💹 $226K |
-| **Number of Customers** | 👥 478 |
-| **Number of Transactions** | 🧾 1,496 |
+| **Total Revenue** |  $581K |
+| **Total Profit** |  $226K |
+| **Number of Customers** |  478 |
+| **Number of Transactions** |  1,496 |
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
-![Sales Dashboard Preview](https://github.com/Joy-analyst/Shop-24---Sales-Analysis/blob/main/SALES%20DASHBOARD.png)
 
-### 🧩 **Sales Distribution by Region**
+
+###  **Sales Distribution by Region**
+![Sales By Region Preview](Shop-24---Sales-Analysis/Sales By Region.png at main · Joy-analyst/Shop-24---Sales-Analysis
+)
 - **West Region** recorded the highest revenue at **$191K**.  
 - **East Region** followed closely with **$166K**, while **South Region** had the lowest sales at **$72K**.  
 - Regional variation highlights areas for targeted marketing and logistics improvement.  
 
-### 🧩 **Sales by Product Category**
+###  **Sales by Product Category**
+![Sales by Product Category Preview](Shop-24---Sales-Analysis/Sales By Product Category.png at main · Joy-analyst/Shop-24---Sales-Analysis
+
+)
 - **Toys ($164K)** was the top-performing category.  
 - **Clothing ($122K)** and **Furniture ($121K)** followed closely.  
 - **Office Supplies ($75K)** had the lowest sales volume, suggesting underperformance or limited stock availability.  
 
-### 🧩 **Sales by Marital Status**
+###  **Sales by Marital Status**
+
+![Sales by Marital Status Preview](Shop-24---Sales-Analysis/Sales By Marital status.png at main · Joy-analyst/Shop-24---Sales-Analysis
+)
 - **Married customers** contributed the most with **$164K** in sales, followed by **Widowed ($152K)** and **Divorced ($136K)**.  
 - Targeted campaigns toward married and widowed segments could drive even higher engagement.  
 
-### 🧩 **Sales by Gender**
+###  **Sales by Gender**
+
+![Sales by Gender Preview](Shop-24---Sales-Analysis/Sales By Gender.png at main · Joy-analyst/Shop-24---Sales-Analysis
+)
 - **Female customers** generated **$205K**, slightly higher than **Male ($197K)**, while **Non-binary** accounted for **$178K**.  
 - Indicates a balanced customer base across gender demographics.  
 
-### 🧩 **Top Performing States**
+###  **Top Performing States**
+
+![Top Performing States Preview](Shop-24---Sales-Analysis/Sales By State.png at main · Joy-analyst/Shop-24---Sales-Analysis
+)
 | State | Revenue |
 |--------|----------|
 | California | $131K |
@@ -89,7 +100,7 @@ The primary goals of the analysis were to:
 
 California leads with over **22%** of total sales, marking it as a key market.
 
-### 🧩 **Top Performing Suppliers**
+###  **Top Performing Suppliers**
 | Supplier | Sales |
 |----------|--------|
 | West LLC | $54K |
@@ -109,7 +120,7 @@ The Excel dashboard is designed to be **interactive and dynamic**, allowing user
 
 ---
 
-## 💡 Insights Summary
+##  Insights Summary
 - **Revenue Growth:** Significant increase from 2023 to 2024, driven by the Toys and Clothing categories.  
 - **Profit Margins:** Remain stable across regions, with West performing best.  
 - **Customer Insights:** Female and married customers drive a large portion of sales.  
@@ -117,7 +128,7 @@ The Excel dashboard is designed to be **interactive and dynamic**, allowing user
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Download the `Shop24_Sales_Dashboard.xlsx` file from the **dashboard** folder.  
 2. Open in **Microsoft Excel (2019 or later)**.  
 3. Use slicers on the left panel to filter by **month**, **product category**, and **year**.  
@@ -125,7 +136,7 @@ The Excel dashboard is designed to be **interactive and dynamic**, allowing user
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - Data Cleaning and Transformation  
 - Business Intelligence (BI) in Excel  
 - KPI Dashboard Design  
@@ -134,7 +145,7 @@ The Excel dashboard is designed to be **interactive and dynamic**, allowing user
 
 ---
 
-## 💬 Business Impact
+##  Business Impact
 This project empowers Shop’24’s management team to:
 - Identify top-performing regions, suppliers, and product lines  
 - Understand customer demographics driving the most revenue  
@@ -143,7 +154,7 @@ This project empowers Shop’24’s management team to:
 
 ---
 
-## 🧾 Conclusion
+##  Conclusion
 The **Shop’24 Excel Sales Dashboard** transforms raw sales data into actionable insights.  
 Through visual storytelling and KPI tracking, it provides an at-a-glance summary of company performance — helping leadership make informed and strategic business decisions.
 
@@ -153,9 +164,9 @@ Through visual storytelling and KPI tracking, it provides an at-a-glance summary
 **Joy Uko**  
 *Data Analyst | Data Scientist*  
 
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-💼 [Portfolio](https://yourportfolio.com)  
-📧 [Email](mailto:your@email.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/joy-uko)  
+💼 [Portfolio](https://sites.google.com/view/joy-uko/)  
+📧 [Email](mailto:ukojoy22@gmail.com)  
 
 ---
 
@@ -163,6 +174,4 @@ Through visual storytelling and KPI tracking, it provides an at-a-glance summary
 `#DataAnalysis` `#ExcelDashboard` `#SalesAnalytics` `#DataVisualization` `#BusinessIntelligence` `#JoyUko`
 
 
----
 
-## 📂 Repository Structure
