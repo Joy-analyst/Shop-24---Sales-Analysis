@@ -3,7 +3,6 @@
 ![Shop24 Dashboard Preview](https://github.com/Joy-analyst/Shop-24---Sales-Analysis/blob/main/SALES%20DASHBOARD.png)
 
 
-
 ## 📊 Project Overview
 **Shop’24**, a U.S.-based sales organization, aimed to close its books for the year and gain insights into its business performance.  
 As the **Data Scientist**, I was tasked with extracting, analyzing, and visualizing key data from the company’s database covering **sales**, **customers**, and **products**.  
